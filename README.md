@@ -5,7 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Checkout the project
 
 ```
-git clone https://github.com/chrisblakely01/basic-react-forms.git
 
 ```
 
